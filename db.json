@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server2",
+      "body": "artom"
+    },
+    {
+      "id": 3,
+      "title": "json-server3",
+      "body": "misha"
+    },
+    {
+      "id": 4,
+      "title": "json-server4",
+      "body": "matvey"
+    },
+    {
+      "id": 5,
+      "title": "json-server5",
+      "body": "olezha"
+    },
+    {
+      "title": "Title",
+      "body": "body",
+      "id": 6
+    },
+    {
+      "title": "News",
+      "body": "Nichego",
+      "id": 7
+    },
+    {
+      "title": "New",
+      "body": "Port",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
